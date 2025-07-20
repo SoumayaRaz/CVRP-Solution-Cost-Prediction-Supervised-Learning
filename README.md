@@ -137,5 +137,4 @@ Ricardo Fernandez | Sarra Mahmoudi | Chenjie Qian | Soumiya Razzouk | Daniel Ter
 .
 ├── data/                # Raw and processed dataset files
 ├── notebook             # Jupyter notebooks for regression and classification
-├── visuals/             # Graphs, confusion matrices, feature importances
 └── README.md            # Readme 
